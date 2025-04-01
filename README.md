@@ -15,6 +15,6 @@ ConvertInto.io, A utility Program that is very helpful and useful at the same ti
 **You can get the HTML, CSS and JS file from files section**
 
 Note:
-This code is solely written by Ayush and you can use it as long as you don't consider it as yours'.
+This code is solely written by Ayu and you can use it as long as you don't consider it as yours'.
 
 Please check my other repos too.
